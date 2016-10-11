@@ -9,4 +9,7 @@ public class HelloWorld {
 	public static void printHello(){
 		System.out.println("Hello World...");
 	}
+	public static void printHello2(){
+		System.out.println("Hello World...");
+	}
 }
